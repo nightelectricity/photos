@@ -23,5 +23,5 @@ social_urls:
   bluesky: "https://bsky.app/profile/nightelectricity.com"
 
 plugins:
-   – jekyll-seo-tag 
+   - jekyll-seo-tag
 
